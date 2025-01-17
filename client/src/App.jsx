@@ -12,7 +12,7 @@ import Listing from './pages/Listing';
 import Search from './pages/Search';
 import Footer from './components/Footer';
 import Contacts from './pages/Contacts';
-import Privacy from './pages/privacy';
+import Privacy from './pages/Privacy';
 import Term from './pages/Term'
 import Agents from './pages/Agents';
 
