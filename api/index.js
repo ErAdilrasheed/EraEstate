@@ -10,8 +10,7 @@ dotenv.config();
 
 mongoose
   .connect(
-    process.env.MONGO_URI ||
-      'mongodb+srv://adil:adil@cluster0.ycknv.mongodb.net/eraestate?retryWrites=true&w=majority&appName=Cluster0')
+    process.env.MONGO_URI)
   .then(() => {
     console.log('Connected to MongoDB!')
   })
