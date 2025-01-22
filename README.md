@@ -92,15 +92,27 @@ Add yourself as a contributor in your pull request!
 
 ## Screenshots
 
-1. **Homepage:**
-   ![Homepage Screenshot]([screenshot-homepage.png](https://res.cloudinary.com/dr5kn8993/image/upload/v1737575765/medico/home_wl62yg.png)
+<div align="center">
+      <img src="https://res.cloudinary.com/dr5kn8993/image/upload/v1737575765/medico/home_wl62yg.png" alt="Project Banner">
+<div>
 
-2. **Property Details Page:**
-   ![Property Details Screenshot](screenshot-property-details.png)
+  <div align="center">
+      <img src="https://res.cloudinary.com/dr5kn8993/image/upload/v1737575764/medico/recent_swhvsz.png" alt="Project Banner">
 
-3. **Admin Dashboard:**
-   ![Admin Dashboard Screenshot](screenshot-admin-dashboard.png)
+  <div>
 
+  <div align="center">
+      <img src="https://res.cloudinary.com/dr5kn8993/image/upload/v1737575763/medico/signin_g5ozwx.png" alt="Project Banner">
+
+  <div>
+     <div align="center">
+      <img src="https://res.cloudinary.com/dr5kn8993/image/upload/v1737575763/medico/profile_cw3lmo.png" alt="Project Banner">
+
+  <div>
+     <div align="center">
+      <img src="https://res.cloudinary.com/dr5kn8993/image/upload/v1737575763/medico/create_tzseoe.png" alt="Project Banner">
+
+  <div>
 ---
 
 ## License
