@@ -51,6 +51,15 @@ To set up the project locally, follow these steps:
 
 ---
 
+## .env
+```bash
+MONGO = "your mongo db url"
+JWT_SECRET = "any random text"
+FIREBASE_API_KEY = "your firebase secret api key"
+```
+
+---
+
 ## Usage
 
 Once installed, you can use EraEstate to:
