@@ -93,7 +93,7 @@ Add yourself as a contributor in your pull request!
 ## Screenshots
 
 1. **Homepage:**
-   ![Homepage Screenshot](screenshot-homepage.png)
+   ![Homepage Screenshot]([screenshot-homepage.png](https://res.cloudinary.com/dr5kn8993/image/upload/v1737575765/medico/home_wl62yg.png)
 
 2. **Property Details Page:**
    ![Property Details Screenshot](screenshot-property-details.png)
