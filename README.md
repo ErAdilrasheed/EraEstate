@@ -1,6 +1,6 @@
 # EraEstate
 
-A real estate web application designed for the real estate business. EraEstate streamlines property management, client interactions, and business workflows with modern web technologies.
+A real estate web application designed for the real estate businesses. EraEstate streamlines property management, client interactions, and business workflows with modern web technologies.
 
 ---
 
