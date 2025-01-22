@@ -32,19 +32,21 @@ To set up the project locally, follow these steps:
    git clone https://github.com/eradilrasheed/eraestate.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory and Install the required dependencies:
    ```bash
-   cd eraestate
+   cd client
+   npm install
    ```
 
-3. Install the required dependencies:
-   ```bash
+```bash
+   cd api
    npm install
    ```
 
 4. Start the development server:
    ```bash
-   npm start
+   npm start  // for api (backend)
+   npm run dev  // for client (frontend)
    ```
 
 ---
